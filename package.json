@@ -1,0 +1,92 @@
+{
+  "_from": "react-alice-carousel",
+  "_id": "react-alice-carousel@1.10.6",
+  "_inBundle": false,
+  "_integrity": "sha512-x3d2b0YzZw6QSdtNPP2AWEq86URI0q5HFBA0IHtx8+dlsvtys1JE/057MNGxm4bwQh2LPxk4XAaq3+4mALw6EA==",
+  "_location": "/react-alice-carousel",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "react-alice-carousel",
+    "name": "react-alice-carousel",
+    "escapedName": "react-alice-carousel",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-alice-carousel/-/react-alice-carousel-1.10.6.tgz",
+  "_shasum": "85bf6864ba19a2d5daacd717adb13b796e35eb2f",
+  "_spec": "react-alice-carousel",
+  "_where": "/Users/mahen/Developer/Equiwatt/equiwatt-frontend",
+  "author": {
+    "name": "Max Marinich"
+  },
+  "bugs": {
+    "url": "https://github.com/maxmarinich/react-alice-carousel/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "prop-types": "^15.5.10",
+    "react": ">=15.4",
+    "react-swipeable": "^4.3.0"
+  },
+  "deprecated": false,
+  "description": "React image gallery, react slideshow carousel, react content rotator",
+  "devDependencies": {
+    "babel-plugin-transform-object-assign": "^6.22.0",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-0": "^6.24.1",
+    "babelify": "^7.3.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-strip-comments": "^2.5.1"
+  },
+  "homepage": "https://github.com/maxmarinich/react-alice-carousel#readme",
+  "keywords": [
+    "react",
+    "carousel",
+    "gallery",
+    "slider",
+    "slideshow",
+    "rotator",
+    "react-slideshow",
+    "react-gallery",
+    "react carousel",
+    "react slideshow",
+    "react gallery",
+    "image gallery",
+    "image slider",
+    "image carousel",
+    "image rotator",
+    "content gallery",
+    "content rotator"
+  ],
+  "license": "MIT",
+  "main": "./lib/react-alice-carousel",
+  "maintainers": [
+    {
+      "name": "Max Marinich",
+      "email": "max.marinich@gmail.com"
+    }
+  ],
+  "name": "react-alice-carousel",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxmarinich/react-alice-carousel.git"
+  },
+  "scripts": {
+    "start": "gulp"
+  },
+  "types": "./lib/types/react-alice-carousel.d.ts",
+  "version": "1.10.6"
+}
